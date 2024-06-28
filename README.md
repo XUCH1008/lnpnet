@@ -49,3 +49,14 @@ We adopt Res2Net-50(Gao et al., 2021) as the network backbone to extract five fe
 |                              | **Ours** | **0.736** | **0.657** | **0.722** | **0.826** | **0.860** | **0.041** |
 
 ![本地路径](3.png "相对路径演示,上一级目录")
+
+If the work is useful for you, please cite us:
+
+```
+@misc{lnpnet,
+    author={Chenhao Xu},
+    title={LNPNet: Ladder Net for Polyp Segmentaion with Multi-level Feature Fusion},
+    howpublished={\url{https://github.com/XUCH1008/lnpnet}},
+    year=2024,
+}
+```
