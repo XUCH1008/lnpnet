@@ -1,4 +1,4 @@
-# LNPNet: Ladder Net for Polyp Segmentaion with Multi-level Feature Fusion
+# LNPNet: Ladder Net for Polyp Segmentation with Multi-level Feature Fusion
 
 ## Methodology
 
@@ -55,7 +55,7 @@ If the work is useful for you, please cite us:
 ```
 @misc{lnpnet,
     author={Chenhao Xu},
-    title={LNPNet: Ladder Net for Polyp Segmentaion with Multi-level Feature Fusion},
+    title={LNPNet: Ladder Net for Polyp Segmentation with Multi-level Feature Fusion},
     howpublished={\url{https://github.com/XUCH1008/lnpnet}},
     year=2024,
 }
